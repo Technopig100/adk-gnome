@@ -1,5 +1,5 @@
 RELEASE=23.01
-CODENAME=onondoga
+CODENAME=onondaga
 EDITION="Gnome"
 DESCRIPTION="ADK-Linux 23.01 Onondaga"
 DESKTOP=Gnome
